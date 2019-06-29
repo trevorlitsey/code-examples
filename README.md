@@ -1,7 +1,3 @@
-# Netlify code examples
+# Use Env
 
-Code snippets for you to get started with Netlify features.
-
-## [Netlify Functions](https://github.com/netlify/code-examples/tree/master/function_examples)
-
-A few minimal code examples to give you an idea about how to use Netlify Functions to make simple HTTP request.
+This is a basic example of a function that uses a build environment variable that's specified in the users Netlify site's deploy settings.
