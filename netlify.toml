@@ -1,3 +1,6 @@
 [build]
   publish = "_site/"
   functions = "functions/"
+
+[build.environment]
+  FAKE_TOKEN = 'thisisatoken??'
